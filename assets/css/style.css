@@ -5,6 +5,10 @@ body{
     background-size:cover;
 }
 
+#navBarProject{
+    color:#FFF;
+}
+
 /*styling for my picture */
 #myPicture{
     height:500px;
@@ -14,6 +18,16 @@ body{
 #projectPicture{
     height:300px;
     width:500px;
+}
+/*styling for contact area */
+#contact{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.contactInfo{
+    font-size:20px;
+
 }
 
 /*styling for my link under images to github */
