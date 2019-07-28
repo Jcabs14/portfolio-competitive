@@ -20,7 +20,13 @@ body{
 #code{
     width: 100%;
 }
-/*styling for */
+/*styling for my project header*/
+
+#myProjects{
+    color:white;
+    font-size: 50px;
+    background-color: teal;
+}
 
 /*footer styling*/
 .footer {
