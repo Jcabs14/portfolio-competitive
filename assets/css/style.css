@@ -1,0 +1,28 @@
+
+
+body{
+    background-image: url('../images/background2.jpg');
+    background-size:cover;
+}
+
+/*styling for my picture */
+#myPicture{
+    height:500px;
+}
+
+/*styling for project images */
+#projectPicture{
+    height:300px;
+    width:500px;
+}
+
+/*styling for my link under images to github */
+#code{
+    width: 100%;
+}
+.footer {
+padding: 1rem 0;
+margin-top: auto;
+background-color: #f5f5f5;
+width: 100%;
+    }
