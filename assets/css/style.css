@@ -11,7 +11,7 @@ body{
 
 /*styling for my picture */
 #myPicture{
-    height:500px;
+    height:600px;
 }
 
 /*styling for project images */
@@ -40,6 +40,19 @@ body{
     color:white;
     font-size: 50px;
     background-color: teal;
+}
+
+#list{
+    color:white;
+    font-size:20px;
+}
+
+.nameHeader{
+width:100%;
+font-size:100px;
+font-weight: bold;
+color: white;
+text-shadow: 2px 2px 4px #000000;
 }
 
 /*footer styling*/
