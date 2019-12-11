@@ -1,13 +1,61 @@
-
-
 body{
+    background-color:lightslategray;
+}
+
+#bg-img{
     background-image: url('../images/background2.jpg');
-    background-size:cover;
+    background-size:100%;
+    background-repeat: no-repeat;
+    min-height:500px;
+
+}
+
+#me{
+    height:250px;
+    width:250px;
+}
+
+#aboutMe{
+    margin-top: -200px;
+}
+
+#technologies span{
+    padding: 10px 20px 10px 20px;
+}
+
+#technologies hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+#projects span{
+    padding: 10px 20px 10px 20px;
+
+}
+
+#projects hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+#contactMe span{
+    padding: 10px 20px 10px 20px;
+}
+
+#contactMe hr{
+border-width: 2px;
+margin-top: 6px;
+}
+
+.fab{
+    font-size:50px;
 }
 
 #navBarProject{
     color:#FFF;
 }
+
+
 
 /*styling for my picture */
 #myPicture{
@@ -55,10 +103,7 @@ color: white;
 text-shadow: 2px 2px 4px #000000;
 }
 
-/*footer styling*/
-.footer {
-padding: 1rem 0;
-margin-top: auto;
-background-color: #f5f5f5;
-width: 100%;
-    } 
+/*Hover Effect*/
+#Header a:hover{
+    color: white;
+}
