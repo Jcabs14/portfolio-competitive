@@ -10,11 +10,6 @@ body{
 
 }
 
-#me{
-    height:250px;
-    width:250px;
-}
-
 #aboutMe{
     margin-top: -200px;
 }
@@ -51,6 +46,10 @@ margin-top: 6px;
     font-size:50px;
 }
 
+.bio{
+    font-weight: bold;
+}
+
 #navBarProject{
     color:#FFF;
 }
@@ -75,7 +74,7 @@ margin-top: 6px;
 /*styling for contact area */
 #contact{
     font-weight: bold;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .contactInfo{
